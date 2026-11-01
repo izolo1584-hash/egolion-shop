@@ -1,0 +1,2 @@
+# egolion-shop
+tg jalopa
